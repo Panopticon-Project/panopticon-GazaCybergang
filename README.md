@@ -7,3 +7,5 @@ https://www.darkreading.com/attacks-breaches/gaza-cybergang-acquires-new-tools-e
 https://www.securityweek.com/new-attacks-palestine-linked-gaza-cybergang
 
 https://www.securityweek.com/hamas-linked-threat-actors-infrastructure-disrupted
+
+https://www.securityweek.com/new-backdoor-attacks-leverage-political-turmoil-middle-east
