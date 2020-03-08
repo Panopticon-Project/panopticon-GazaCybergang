@@ -13,3 +13,5 @@ https://www.securityweek.com/new-backdoor-attacks-leverage-political-turmoil-mid
 https://unit42.paloaltonetworks.com/molerats-delivers-spark-backdoor/
 
 https://www.securityweek.com/hamas-linked-hackers-add-insurance-and-retail-target-list
+
+https://www.technadu.com/hacking-group-molerats-targets-governments-of-six-countries/94354/
