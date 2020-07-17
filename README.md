@@ -15,3 +15,5 @@ https://unit42.paloaltonetworks.com/molerats-delivers-spark-backdoor/
 https://www.securityweek.com/hamas-linked-hackers-add-insurance-and-retail-target-list
 
 https://www.technadu.com/hacking-group-molerats-targets-governments-of-six-countries/94354/
+
+https://www.welivesecurity.com/2020/07/14/welcome-chat-secure-messaging-app-nothing-further-truth/
