@@ -21,3 +21,5 @@ https://www.welivesecurity.com/2020/07/14/welcome-chat-secure-messaging-app-noth
 https://www.calcalistech.com/ctech/articles/0,7340,L-3880315,00.html
 
 https://www.cyberscoop.com/molerats-cybereason-gaza-espionage-palestine/
+
+https://www.securityweek.com/apt-group-using-voice-changing-software-spear-phishing-campaign
