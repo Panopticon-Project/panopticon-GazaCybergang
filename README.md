@@ -25,3 +25,5 @@ https://www.cyberscoop.com/molerats-cybereason-gaza-espionage-palestine/
 https://www.securityweek.com/apt-group-using-voice-changing-software-spear-phishing-campaign
 
 https://www.securityweek.com/israel-says-its-fighter-jets-bombed-buildings-used-hamas-cyber-unit ??
+
+https://thehackernews.com/2021/06/molerats-hackers-return-with-new.html
