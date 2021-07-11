@@ -27,3 +27,5 @@ https://www.securityweek.com/apt-group-using-voice-changing-software-spear-phish
 https://www.securityweek.com/israel-says-its-fighter-jets-bombed-buildings-used-hamas-cyber-unit ??
 
 https://thehackernews.com/2021/06/molerats-hackers-return-with-new.html
+
+https://www.0ffset.net/reverse-engineering/malware-analysis/molerats-string-decryption/
