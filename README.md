@@ -29,3 +29,7 @@ https://www.securityweek.com/israel-says-its-fighter-jets-bombed-buildings-used-
 https://thehackernews.com/2021/06/molerats-hackers-return-with-new.html
 
 https://www.0ffset.net/reverse-engineering/malware-analysis/molerats-string-decryption/
+
+https://www.cyberscoop.com/molerats-gaza-israel-cyber-proofpoint/
+
+https://www.proofpoint.com/us/blog/threat-insight/new-ta402-molerats-malware-targets-governments-middle-east
