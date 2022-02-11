@@ -35,6 +35,9 @@ https://www.cyberscoop.com/molerats-gaza-israel-cyber-proofpoint/
 https://www.proofpoint.com/us/blog/threat-insight/new-ta402-molerats-malware-targets-governments-middle-east
 
 https://threatpost.com/molerats-apt-spy-bankers-politicians-journalists/177907/
+
 https://www.securityweek.com/wirte-attacks-targeting-middle-eastern-governments-linked-hamas-cyberspies
 
 https://thehackernews.com/2022/01/molerats-hackers-hiding-new-espionage.html
+
+https://threatpost.com/molerats-apt-trojan-cyberespionage-campaign/178305/
