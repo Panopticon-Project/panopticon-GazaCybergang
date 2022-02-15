@@ -1,5 +1,7 @@
 # panopticon-GazaCybergang
 
+https://heimdalsecurity.com/blog/molerats-apt-is-back-now-leveraging-nimblemamba-malware/
+
 http://www.securityweek.com/hamas-linked-gaza-cybergang-has-new-tools-targets
 
 https://www.darkreading.com/attacks-breaches/gaza-cybergang-acquires-new-tools-expands-operations/d/d-id/1330266?
